@@ -1,3 +1,3 @@
 def sigma():
     if 'you are sigma' == 'you are sigma':
-        print('you\'re sigma boy1!')
+        print('you\'re not a sigma boy1!')
